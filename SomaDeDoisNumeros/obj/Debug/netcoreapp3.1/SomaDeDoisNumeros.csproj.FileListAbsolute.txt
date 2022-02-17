@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\netcoreapp3.1\SomaDeDoisNumeros.exe
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\netcoreapp3.1\SomaDeDoisNumeros.deps.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\netcoreapp3.1\SomaDeDoisNumeros.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\netcoreapp3.1\SomaDeDoisNumeros.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\netcoreapp3.1\SomaDeDoisNumeros.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\netcoreapp3.1\SomaDeDoisNumeros.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\netcoreapp3.1\SomaDeDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\netcoreapp3.1\SomaDeDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\netcoreapp3.1\SomaDeDoisNumeros.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\netcoreapp3.1\SomaDeDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\netcoreapp3.1\SomaDeDoisNumeros.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\netcoreapp3.1\SomaDeDoisNumeros.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\netcoreapp3.1\SomaDeDoisNumeros.genruntimeconfig.cache
